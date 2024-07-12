@@ -1,1 +1,1 @@
-# Vue-project
+# mini-project
